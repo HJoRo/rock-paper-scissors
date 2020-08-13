@@ -1,6 +1,17 @@
 html {
     font-family: 'Source Code Pro', monospace;
     font-size: 40px;
+    color: darkslategray;
+    background-color: pink;
+}
+img:hover {
+    cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.8s ease-in-out 0s;
+}
+.head {
+    font-size: 30px;
+    text-align: center;
 }
 .container {
     display: flex;
@@ -10,6 +21,7 @@ html {
 .box {
     flex: 0 1 150px;
     margin: 5px;
+    border-radius: 10%;
 }
 .outcome {
     display: grid;

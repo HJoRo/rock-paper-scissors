@@ -21,30 +21,30 @@ function user(){
 //function that compares user choice and computer choice
     function compare(choice1, choice2) {
         if(choice1 === choice2) {
-            return "Tie! Try again.";
+            return "<b>Tie! Try again.</b>";
         }
         if(choice1 === "rock") {
             if(choice2 === "scissors") {
-                return "Rock wins.";
+                return "<b>Rock wins.</b>";
             } else {
-                return "Paper wins.";
+                return "<b>Paper wins.</b>";
             }
         }
         if(choice1 === "paper") {
             if (choice2 === "rock") {
-                return "Paper wins.";
+                return "<b>Paper wins.</b>";
             } else {
                 if (choice2 === "scissors") {
-                    return "Scissors wins.";
+                    return "<b>Scissors wins.</b>";
                 }
             }
         }
         if(choice1 === "scissors") {
             if (choice2 === "rock") {
-                return "Rock wins.";
+                return "<b>Rock wins.</b>";
             } else {
                 if (choice2 === "paper") {
-                    return "Scissors wins.";
+                    return "<b>Scissors wins.</b>";
                 }
             }
         }

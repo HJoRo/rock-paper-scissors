@@ -1,0 +1,23 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HJoRo/rock-paper-scissors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HJoRo/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/HJoRo/rock-paper-scissors#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node": "^14.8.0"
+  }
+}

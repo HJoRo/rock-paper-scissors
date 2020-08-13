@@ -1,0 +1,18 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="202" height="202" id="canvas_background" fill="#fff"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#EDFFFF" stroke="#B6C7EA" stroke-width="1.5" d="m1,40.54887l39.54887,-39.54887l158.52783,0l0,198.07671l-198.07671,0l0,-158.52784l0.00001,0z" id="svg_1"/>
+  <line fill="none" stroke="#9ACEE6" stroke-width="1.5" x1="41.16379" y1="0.36638" x2="41.16379" y2="39.15948" id="svg_3" stroke-linejoin="null" stroke-linecap="null"/>
+  <line fill="none" stroke="#9ACEE6" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="40.73276" y1="38.29741" x2="1.07759" y2="40.45258" id="svg_5" stroke-linejoin="null" stroke-linecap="null"/>
+  <line fill="none" stroke="#ff0033" stroke-width="1.5" fill-opacity="null" x1="23.33333" y1="78.05353" x2="180.75426" y2="78.29684" id="svg_6" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="5,2,2,2"/>
+  <line fill="none" stroke="#ff0033" stroke-width="1.5" stroke-dasharray="5,2,2,2,2,2" fill-opacity="null" x1="21.63017" y1="118.68613" x2="181.24087" y2="118.19951" id="svg_7" stroke-linejoin="null" stroke-linecap="null"/>
+  <line fill="none" stroke="#ff0033" stroke-width="1.5" stroke-dasharray="5,2,2,2" fill-opacity="null" x1="21.38686" y1="159.17275" x2="181.9708" y2="158.68613" id="svg_8" stroke-linejoin="null" stroke-linecap="null"/>
+  <text fill="#000000" stroke="#ff0033" stroke-width="0" stroke-dasharray="5,2,2,2" x="69.03352" y="51.30003" id="svg_9" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">paper</text>
+ </g>
+</svg>
