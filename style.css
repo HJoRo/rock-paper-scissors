@@ -1,0 +1,17 @@
+html {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box {
+    flex: 0 1 150px;
+    margin: 5px;
+}
+.outcome {
+    display: grid;
+    place-items: center;
+}
