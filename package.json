@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/HJoRo/rock-paper-scissors#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "http": "0.0.1-security",
     "mysql": "^2.18.1",
     "node": "^14.8.0"
   }

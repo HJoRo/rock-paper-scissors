@@ -17,11 +17,16 @@ img:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    border-radius: 50%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: white;
 }
 .box {
     flex: 0 1 150px;
-    margin: 5px;
-    border-radius: 10%;
+    margin: 20px;
 }
 .outcome {
     display: grid;
